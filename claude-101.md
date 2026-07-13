@@ -1,6 +1,8 @@
 # Claude 101
 
-## URL: anthropic.skilljar.com/claude-101
+## Course Notes
+
+> URL: [Claude-101](anthropic.skilljar.com/claude-101)
 
 ### Ways to access Claude
 
@@ -72,3 +74,48 @@
   - Describe the end user.
   - Iterate incrementally.
   - Request artifacts when needed.
+
+### Skills
+
+- Folders of **Instructions, Scripts and Resources** that Claude **loads dynamically** to improve performance on specialized tasks.
+- **Types:** Anthropic, Custom
+
+### Projects vs Skills
+
+| Attribute   | Projects                          | Skills                            |
+| ----------- | --------------------------------- | --------------------------------- |
+| Purpose     | Store knowledge Claude references | Define processes Claude executes  |
+| Best For    | Long-term context, reference docs | Repeatable multi-step workflows   |
+| Example     | Customer Hub, Feedback Generator  | Process Guidelines, Blog Drafting |
+| Persistence | All chats in the project          | Applied when skill is invoked     |
+
+### Connecting Tools
+
+- **What are Connectors**
+  - Allows Claude to use the tools/platforms that the users use for their daily work.
+  - Claude can gather information from or perform actions on the tools.
+  - Powered by **Model Context Protocol (MCP)**.
+  - **Types:** Web Connectors, Desktop Extensions
+- **Security and Permissions when Connecting a Tool**
+  - Scoped Access
+  - Claude sees what the user sees
+  - Revocable
+
+### Enterprise Search
+
+> Team/Enterprise Plans
+
+- Adds a dedicated **Ask {Your Org's Name}** option to the user's sidebar.
+- Designed for finding and synthesizing knowledge buried across the user's company's tools and data sources.
+- **Performable Tasks:** Getting up to speed (coming back from vacation), policy and process questions, research and analysis, onboarding new team members, performance and project tracking.
+
+### Research Mode for Deep Dives
+
+- Transforms Claude from a **conversational assistant to a systematic investigator**.
+- Explores the questions from multiple angles and provides a comprehensive report.
+- **Execution Steps:** Plan, Search, Synthesize, Cite.
+- **Tips:** Be specific about goals and answer format/structure, Include relevant constraints, Refine your prompt (ask Claude).
+
+## Certificate of Completion
+
+![1783934088388](certificates/claude-101/1783934088388.png)
