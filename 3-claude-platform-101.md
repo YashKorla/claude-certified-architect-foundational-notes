@@ -61,12 +61,12 @@
 
 - **Skills vs Tools**
 
-| Tools                | Skills               |
-| -------------------- | -------------------- |
-| Connect to Data      | Teach a Procedure    |
-| Take Actions         | Just Instructions    |
-| Run Code             | No Code Runs         |
-| What Claude Can Do   | How you Want it Done |
+| Tools              | Skills               |
+| ------------------ | -------------------- |
+| Connect to Data    | Teach a Procedure    |
+| Take Actions       | Just Instructions    |
+| Run Code           | No Code Runs         |
+| What Claude Can Do | How you Want it Done |
 
 - **Uploading a Skill:** `client.skills.create(display_title: str, files: File)`
 
@@ -88,3 +88,5 @@
 ## Certificate of Completion
 
 ![1784016938925](image/3-claude-platform-101/1784016938925.png)
+
+![1784017943885](image/3-claude-platform-101/1784017943885.png)
