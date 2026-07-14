@@ -81,10 +81,10 @@
 - Wire them up by hand, or use **Claude managed agents**, which **ship with caching and compaction on by default**.
 - **Building Blocks of Managed Agents:** Agents, Sessions, Environments, Tools, MCP, Memory, Outcomes, Multi-Agent Coordination.
 
-![1784016347631](certificates/3-claude-platform-101/1784016347631.png)
+![1784016347631](image/3-claude-platform-101/1784016347631.png)
 
 > Use Claude Code to write the codes for faster shipping!
 
 ## Certificate of Completion
 
-![1784016938925](certificates/3-claude-platform-101/1784016938925.png)
+![1784016938925](image/3-claude-platform-101/1784016938925.png)

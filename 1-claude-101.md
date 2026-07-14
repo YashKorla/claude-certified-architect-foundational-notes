@@ -118,4 +118,4 @@
 
 ## Certificate of Completion
 
-![1783934088388](certificates/claude-101/1783934088388.png)
+![1783934088388](image/claude-101/1783934088388.png)

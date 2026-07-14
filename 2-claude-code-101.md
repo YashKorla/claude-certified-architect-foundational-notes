@@ -122,4 +122,4 @@ flowchart LR
 
 ## Certificate of Completion
 
-![1783945510029](certificates/claude-code-101/1783945510029.png)
+![1783945510029](image/claude-code-101/1783945510029.png)
