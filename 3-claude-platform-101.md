@@ -2,7 +2,7 @@
 
 ## Course Notes
 
-> URL: [Claude-Platform-101](anthropic.skilljar.com/claude-platform-101)
+> URL: [Claude-Platform-101](https://anthropic.skilljar.com/claude-platform-101)
 
 ### What is Claude Platform
 

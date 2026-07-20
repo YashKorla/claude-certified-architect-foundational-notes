@@ -2,7 +2,7 @@
 
 ## Course Notes
 
-> URL: [Claude-Code-101](anthropic.skilljar.com/claude-code-101)
+> URL: [Claude-Code-101](https://anthropic.skilljar.com/claude-code-101)
 
 ### What is Claude Code?
 

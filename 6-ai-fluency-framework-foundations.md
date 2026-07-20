@@ -2,7 +2,7 @@
 
 ## Course Notes
 
-> URL: [AI-Fluency-Framework-Foundations](anthropic.skilljar.com/ai-fluency-framework-foundations)
+> URL: [AI-Fluency-Framework-Foundations](https://anthropic.skilljar.com/ai-fluency-framework-foundations)
 
 ### Why Do We Need AI Fluency
 
