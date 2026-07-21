@@ -2,7 +2,7 @@
 
 ## Course Notes
 
-> URL: [Introduction-to-Claude-Cowork](anthropic.skilljar.com/introduction-to-claude-cowork)
+> URL: [Introduction-to-Claude-Cowork](https://anthropic.skilljar.com/introduction-to-claude-cowork)
 
 ### What is Cowork?
 

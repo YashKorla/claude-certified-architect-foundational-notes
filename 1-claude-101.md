@@ -2,7 +2,7 @@
 
 ## Course Notes
 
-> URL: [Claude-101](anthropic.skilljar.com/claude-101)
+> URL: [Claude-101](https://anthropic.skilljar.com/claude-101)
 
 ### Ways to access Claude
 

@@ -2,7 +2,7 @@
 
 ## Course Notes
 
-> URL: [Claude-Code-in-Action](anthropic.skilljar.com/claude-code-in-action)
+> URL: [Claude-Code-in-Action](https://anthropic.skilljar.com/claude-code-in-action)
 > This course is more practical than theoretical, I recommend watching the course.
 
 ### What is a Coding Assistant?
