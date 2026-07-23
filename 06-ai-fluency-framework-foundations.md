@@ -10,7 +10,7 @@
 
 ### 4D Framework
 
-![1784101059740](image/6-ai-fluency-framework-foundations/1784101059740.png)
+![1784101059740](images/06-ai-fluency-framework-foundations/1784101059740.png)
 
 - **Delegation Components:** Problem Awareness, Platform Awareness, Task Delegation.
 - **Description Components:** Product, Process and Performance Descriptions.
@@ -20,6 +20,6 @@
 
 ## Certification of Completion
 
-![1784103592869](image/6-ai-fluency-framework-foundations/1784103592869.png)
+![1784103592869](images/06-ai-fluency-framework-foundations/1784103592869.png)
 
-![1784103662607](image/6-ai-fluency-framework-foundations/1784103662607.png)
+![1784103662607](images/06-ai-fluency-framework-foundations/1784103662607.png)

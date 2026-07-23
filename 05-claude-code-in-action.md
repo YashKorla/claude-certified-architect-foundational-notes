@@ -15,7 +15,7 @@
 
 ### How Coding Assistant's Work
 
-![1784022424614](image/5-claude-code-in-action/1784022424614.png)
+![1784022424614](images/05-claude-code-in-action/1784022424614.png)
 
 ### CLAUDE.md File
 
@@ -65,6 +65,6 @@
 
 ## Certificate of Completion
 
-![1784032944645](image/5-claude-code-in-action/1784032944645.png)
+![1784032944645](images/05-claude-code-in-action/1784032944645.png)
 
-![1784033029114](image/5-claude-code-in-action/1784033029114.png)
+![1784033029114](images/05-claude-code-in-action/1784033029114.png)

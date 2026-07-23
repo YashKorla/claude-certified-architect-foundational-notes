@@ -8,7 +8,7 @@
 
 ### 5-Step Process of Building a Chatbot
 
-![5-step-process](./image/7-building-with-claude-api/image.png)
+![5-step-process](./images/07-building-with-claude-api/image.png)
 
 ### Accessing Claude with API
 
@@ -23,7 +23,7 @@
 
 #### Quiz 1
 
-![quiz-1](./image/7-building-with-claude-api/image-1.png)
+![quiz-1](./images/07-building-with-claude-api/image-1.png)
 
 ### Prompt Evaluation
 
@@ -37,7 +37,7 @@
 
 #### Quiz 2
 
-![quiz-2](./image/7-building-with-claude-api/image-2.png)
+![quiz-2](./images/07-building-with-claude-api/image-2.png)
 
 ### Prompt Engineering
 
@@ -50,7 +50,7 @@
 
 #### Quiz 3
 
-![quiz-3](./image/7-building-with-claude-api/image-3.png)
+![quiz-3](./images/07-building-with-claude-api/image-3.png)
 
 ### Tool Use
 
@@ -63,7 +63,7 @@
 
 #### Quiz 4
 
-![quiz-4](./image/7-building-with-claude-api/image-4.png)
+![quiz-4](./images/07-building-with-claude-api/image-4.png)
 
 ### RAG and Agentic Search
 
@@ -126,7 +126,7 @@
 
 #### Quiz 5
 
-![quiz-5](./image/7-building-with-claude-api/image-5.png)
+![quiz-5](./images/07-building-with-claude-api/image-5.png)
 
 ### Model Context Protocol (MCP)
 
@@ -142,7 +142,7 @@
 
 #### Communication Flow
 
-![communication-flow](./image/7-building-with-claude-api/image-6.png)
+![communication-flow](./images/07-building-with-claude-api/image-6.png)
 
 #### Python `mcp` Package - Available Decorators
 
@@ -152,7 +152,7 @@
 
 #### Quiz 6
 
-![quiz-6](./image/7-building-with-claude-api/image-7.png)
+![quiz-6](./images/07-building-with-claude-api/image-7.png)
 
 ### Anthropic Apps - Claude Code and Computer Use
 
@@ -169,39 +169,39 @@
 
 - **Workflow:** A series of calls to Claude meant to solve a specific problem through a predetermined series of steps. **Used** when the exact steps required to reach the goal is known.
 
-![workflow](./image/7-building-with-claude-api/image-8.png)
+![workflow](./images/07-building-with-claude-api/image-8.png)
 
 - **Parallel Workflows:** Instead of assigning one huge task to Claude, break them down into pieces and make parellel requests, then combine the responses and send it back for final analysis.
 
-![parallel-workflow](./image/7-building-with-claude-api/image-9.png)
+![parallel-workflow](./images/07-building-with-claude-api/image-9.png)
 
 - **Chain Workflows:** If the tasks are required to be executed sequentially, then use chain workflows where the result of one claude request is sent as input in the next claude request.
 
-![chain-workflow](./image/7-building-with-claude-api/image-10.png)
+![chain-workflow](./images/07-building-with-claude-api/image-10.png)
 
 - **Route Workflows:** A workflow where paths need to be chosen based on some decision logic.
 
-![route-workflow](./image/7-building-with-claude-api/image-11.png)
+![route-workflow](./images/07-building-with-claude-api/image-11.png)
 
 #### Agents
 
 - **Agent:** Claude is given an goal and set of tools. Claude is expected to figure out how to complete the goal through provided tools.
 
-![agent](./image/7-building-with-claude-api/image-12.png)
+![agent](./images/07-building-with-claude-api/image-12.png)
 
 - **Best Practice:** Provide reasonably abstract tools that Claude can combine together for complex tasks.
 - **Environment Inspection:** Claude operates blindly, it needs to be able to observe the environment. For example, when Claude is using **computer user** feature, it will take a screenshot after every action to understand what was the result of the action.
 
 #### Workflows vs Agents
 
-![workflow-v-agent](./image/7-building-with-claude-api/image-13.png)
+![workflow-v-agent](./images/07-building-with-claude-api/image-13.png)
 
 #### Quiz 7
 
-![quiz-7](./image/7-building-with-claude-api/image-14.png)
+![quiz-7](./images/07-building-with-claude-api/image-14.png)
 
 ## Certificate of Completion
 
-![final-assessment](./image/7-building-with-claude-api/image-15.png)
+![final-assessment](./images/07-building-with-claude-api/image-15.png)
 
-![completion-certificate](./image/7-building-with-claude-api/image-16.png)
+![completion-certificate](./images/07-building-with-claude-api/image-16.png)

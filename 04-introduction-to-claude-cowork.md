@@ -87,6 +87,6 @@
 
 ## Certificate of Completion
 
-![1784021337099](image/4-introduction-to-claude-cowork/1784021337099.png)
+![1784021337099](images/04-introduction-to-claude-cowork/1784021337099.png)
 
-![1784021374140](image/4-introduction-to-claude-cowork/1784021374140.png)
+![1784021374140](images/04-introduction-to-claude-cowork/1784021374140.png)

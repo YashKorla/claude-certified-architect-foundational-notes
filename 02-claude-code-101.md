@@ -46,7 +46,7 @@ flowchart LR
 - Terminal
 - IDEs such as VSCode and JetBrains
 - Desktop App
-- [Web](claude.ai/code)
+- [Web](https://claude.ai/)
 
 ### Claude Code: Modes
 
@@ -122,6 +122,6 @@ flowchart LR
 
 ## Certificate of Completion
 
-![1783945510029](image/2-claude-code-101/1783945510029.png)
+![1783945510029](images/02-claude-code-101/1783945510029.png)
 
-![1784017886607](image/2-claude-code-101/1784017886607.png)
+![1784017886607](images/02-claude-code-101/1784017886607.png)
