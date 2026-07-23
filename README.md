@@ -13,7 +13,7 @@
 - [X] Claude Code in Action
 - [X] Building with the Claude API
 - [X] Introduction to Model Context Protocol
-- [ ] Claude with Google Cloud's Vertex AI
+- [ ] Claude on Google Cloud
 - [ ] Introduction to Agent Skills
 - [ ] Introduction to Subagents
 - [ ] AI Capabilities and Limitations
@@ -24,8 +24,3 @@
 - [ ] Model Context Protocol: Advanced Topics
 - [ ] Claude with Amazon Bedrock
 - [ ] AI Fluency for Builders
-- [ ] AI Fluency for Students
-- [ ] AI Fluency for Educators
-- [ ] Teaching AI Fluency
-- [ ] AI Fluency for Nonprofits
-- [ ] AI Fluency for Small Businesses
