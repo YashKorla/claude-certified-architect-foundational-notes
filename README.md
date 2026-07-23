@@ -14,9 +14,9 @@
 - [X] Building with the Claude API
 - [X] Introduction to Model Context Protocol
 - [ ] Claude on Google Cloud
-- [ ] Introduction to Agent Skills
-- [ ] Introduction to Subagents
-- [ ] AI Capabilities and Limitations
+- [X] Introduction to Agent Skills
+- [X] Introduction to Subagents
+- [X] AI Capabilities and Limitations
 
 ### Additional Learning
 
