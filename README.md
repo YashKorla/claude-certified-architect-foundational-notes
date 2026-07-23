@@ -13,7 +13,7 @@
 - [X] Claude Code in Action
 - [X] Building with the Claude API
 - [X] Introduction to Model Context Protocol
-- [ ] Claude on Google Cloud
+- [X] Claude on Google Cloud
 - [X] Introduction to Agent Skills
 - [X] Introduction to Subagents
 - [X] AI Capabilities and Limitations
