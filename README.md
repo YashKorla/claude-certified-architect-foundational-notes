@@ -11,8 +11,8 @@
 - [X] Claude Platform 101
 - [X] Introduction to Claude Cowork
 - [X] Claude Code in Action
-- [ ] Building with the Claude API
-- [ ] Introduction to Model Context Protocol
+- [X] Building with the Claude API
+- [X] Introduction to Model Context Protocol
 - [ ] Claude with Google Cloud's Vertex AI
 - [ ] Introduction to Agent Skills
 - [ ] Introduction to Subagents

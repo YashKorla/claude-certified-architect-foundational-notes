@@ -198,7 +198,7 @@
 
 #### Quiz 7
 
-![quiz-7](image-14.png)
+![quiz-7](./image/7-building-with-claude-api/image-14.png)
 
 ## Certificate of Completion
 
